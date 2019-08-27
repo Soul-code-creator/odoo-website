@@ -1,0 +1,2 @@
+# odoo-website
+Full page
